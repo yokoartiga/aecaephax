@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahfohhee.imzhang.wang/sitemap.xml
